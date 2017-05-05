@@ -3,8 +3,8 @@ applications:
   memory: 512M
   instances: 1
   domain: mybluemix.net
-  name: FirstTeamApp2
-  host: FirstTeamApp2
-  disk_quota: 1024M
+  name: FirstTeamApp
+  host: FirstTeamApp
+  disk_quota: 512M
   services:
   - FirstTeamApp-cloudantNoSQLDB
